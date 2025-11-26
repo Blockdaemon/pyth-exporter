@@ -1,13 +1,13 @@
 module go.blockdaemon.com/pyth_exporter
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/gagliardetto/solana-go v1.12.0
 	github.com/prometheus/client_golang v1.23.2
 	go.blockdaemon.com/pyth v0.3.7
 	go.uber.org/zap v1.27.0
-	golang.org/x/sync v0.13.0
+	golang.org/x/sync v0.18.0
 )
 
 require (
