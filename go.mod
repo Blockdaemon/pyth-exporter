@@ -7,7 +7,7 @@ require (
 	github.com/prometheus/client_golang v1.23.2
 	go.blockdaemon.com/pyth v0.3.7
 	go.uber.org/zap v1.27.1
-	golang.org/x/sync v0.18.0
+	golang.org/x/sync v0.19.0
 )
 
 require (
